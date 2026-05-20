@@ -1,8 +1,8 @@
 class Waxpad < Formula
   desc "Floating markdown notepad for macOS"
   homepage "https://github.com/mchlkucera/waxpad"
-  url "https://github.com/mchlkucera/waxpad/archive/refs/tags/v0.6.2.tar.gz"
-  sha256 "b99d061aff1ec461ac98cc0faafb8d24c6fb60e414a5a196890cdb19c54f9176"
+  url "https://github.com/mchlkucera/waxpad/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "ab08e8746cc20221f3a2306b8e41ec07dc6c5e36e989a0a982aa50a678fee97d"
   license "MIT"
 
   depends_on xcode: ["14.0", :build]
